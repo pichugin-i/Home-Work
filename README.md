@@ -4,7 +4,7 @@
 
 ## Discription
 
-Tis is my irst task with programming language C++ = realization - counting of date
+Tis is my irst task with programming language C++ = realization - finding the perimeter of a square by coordinates
 
 ## Merging an upstream repository
 ...
@@ -20,7 +20,7 @@ Tis is my irst task with programming language C++ = realization - counting of da
 
   git checkout -b implementation
   git add *
-  git commit -m "Пример.."
+  git commit -m "Add first realization"
   git push origin implementation
 
 ...
